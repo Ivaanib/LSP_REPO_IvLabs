@@ -1,2 +1,2 @@
-# LSP_REPO_IvLab1
-Repo for LSP Spring 2025 Lab 1
+# LSP_REPO_IvLabs
+Repo for LSP Spring 2025 Labs
