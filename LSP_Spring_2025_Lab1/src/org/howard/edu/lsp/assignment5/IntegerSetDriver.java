@@ -6,11 +6,19 @@ package org.howard.edu.lsp.assignment5;
  */
 
 
-public class Driver {
+public class IntegerSetDriver {
+	
+	/**
+     * Default constructor for the Driver class.
+     */
+	/**
+     * Main method to test all IntegerSet methods.
+     * @param args command-line arguments (not used)
+     */
 	
 	/**
 	 * Ivan Ibhawoh
-	 * @param args
+	 * @param args name
 	 */
     public static void main(String[] args) {
         // Test basic operations
